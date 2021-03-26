@@ -1,0 +1,14 @@
+{
+  "name": "maratona",
+  "version": "1.0.0",
+  "description": "Projeto feito durante a maratona discover 2 da rocketseat em marco de 2021",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Matheus Cardoso",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
